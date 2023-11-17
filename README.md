@@ -6,16 +6,20 @@
 ```javascript
 const eze = {
   pronouns: "he" | "him",
-  code: [PYTHON, Javascript, Typescript, C],
-  front: [ React, Redux, Express.js, Vue, HTML, CSS, Sass, Tailwindcss, jQuery]
-  back: [ Django , Node, Next.js, Chai, JWT, , passaport,  nginx , Docker],
+  code: [PYTHON, Javascript, Typescript],
+  front: [ React, Express.js, Next.js, Redux.js,
+  Contex, Vue, HTML, CSS, Sass, Tailwindcss, JQuery, Postman],
+  back: [ Django , DRF, Node.js , Chai, JWT, Mochajs ,Passaport],
+  devOps: [ Nginx , Docker, AWS, Kubernetes, Gcloud, Firebase],
+  databases: [MongoDB, PostgreSQL, MySQL, SQLite],
+  tools: [Git, Gitlab, Figma, Trello, Slack, Github],
+  os: [Linux, Windows],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        speaker: "Spanish-speaking male",
+                        mentor: "Midudev {´https://www.linkedin.com/in/midudev/?originalSubdomain=es´}"
                       },
- challenge: "I am doing the #AdventOfCode challenge focused on react and typescript"
+ challenge:"I am currently taking on the #AdventOfCode challenge, tackling it with React and TypeScript, and simultaneously working on the Exercism Python challenge."
 }
 ```
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
