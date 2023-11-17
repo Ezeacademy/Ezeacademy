@@ -17,7 +17,7 @@ const eze = {
                       },
  challenge: "I am doing the #AdventOfCode challenge focused on react and typescript"
 }
-
+```
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 🔭 I’m currently working on: CodeCraftHub - Crafting a Dynamic Portfolio [CodeCraftHub](https://github.com/Ezeacademy/CodeCraftHub)
 
