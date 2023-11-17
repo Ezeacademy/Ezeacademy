@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezeacademy&label=Profile%20views&color=0e75b6&style=flat" alt="ezeacademy" /> </p>
 
 
-
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 🔭 I’m currently working on: CodeCraftHub - Crafting a Dynamic Portfolio [CodeCraftHub](https://github.com/Ezeacademy/CodeCraftHub)
 
 - 🌱 I’m currently learning **AWS, Azure, Jenkins**
