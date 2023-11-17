@@ -3,6 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezeacademy&label=Profile%20views&color=0e75b6&style=flat" alt="ezeacademy" /> </p>
 
+```javascript
+const eze = {
+  pronouns: "he" | "him",
+  code: [PYTHON, Javascript, Typescript, C],
+  front: [ React, Redux, Express.js, Vue, HTML, CSS, Sass, Tailwindcss, jQuery]
+  back: [ Django , Node, Next.js, Chai, JWT, , passaport,  nginx , Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #AdventOfCode challenge focused on react and typescript"
+}
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 🔭 I’m currently working on: CodeCraftHub - Crafting a Dynamic Portfolio [CodeCraftHub](https://github.com/Ezeacademy/CodeCraftHub)
