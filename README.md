@@ -37,7 +37,7 @@ const eze = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ezequiel steger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel steger" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ezequiel steger](https://www.linkedin.com/in/ezequiel-steger-a9a0b7195/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel steger" height="30" width="40" /></a>
 <a href="https://instagram.com/ezesteger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezesteger" height="30" width="40" /></a>
 </p>
 
