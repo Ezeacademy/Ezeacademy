@@ -42,11 +42,12 @@
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,notion&perline=15)](https://skillicons.dev) <!-- Puedes agregar otras herramientas aquí -->
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,notion&perline=15)](https://skillicons.dev) 
 
 
   ## Check out my Achievements 🚀
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AA)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
