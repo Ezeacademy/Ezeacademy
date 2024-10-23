@@ -13,7 +13,7 @@
 
 <h3 align="left">Back-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,docker,tensorflow,pytorch,postman,pandas,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,docker,tensorflow,pytorch,postman,rabbitmq,elasticsearch&perline=15)](https://skillicons.dev) 
 
 
 <h3 align="left">Front-End</h3>
