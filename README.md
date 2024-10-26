@@ -9,40 +9,40 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,js,ts&perline=15)](https://skillicons.dev)
 
 <h3 align="left">Back-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,docker,tensorflow,pytorch,postman,rabbitmq,elasticsearch&perline=15)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,tensorflow,pytorch,postman,rabbitmq,elasticsearch,express,nodejs&perline=15)](https://skillicons.dev) 
 
 
 <h3 align="left">Front-End</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=express,nextjs,vue,nodejs,redux,graphql,tailwind,sass,html,vite,webpack,babel,androidstudio&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vue,sass&perline=15)](https://skillicons.dev)
 
 <h3 align="left">OS</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,linux,neovim,ubuntu,vim&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,windows&perline=15)](https://skillicons.dev)
 
 <h3 align="left">Services</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,nginx,cloudflare,firebase&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,nginx,cloudflare,firebase,graphql&perline=15)](https://skillicons.dev)
 
 <h3 align="left">DevOps</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=jenkins,kubernetes,terraform&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform&perline=15)](https://skillicons.dev)
 
 <h3 align="left">DB</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=15)](https://skillicons.dev)
 
 <h3 align="left">IDEs</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,sublime,webstorm&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,sublime,webstorm,vim,neovim&perline=15)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,notion&perline=15)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,notion,androidstudio&perline=15)](https://skillicons.dev)
 
 
   ## Check out my Achievements 🚀
