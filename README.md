@@ -18,7 +18,7 @@
 
 <h3 align="left">Front-End</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vue,sass&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vue,tailwindcss&perline=15)](https://skillicons.dev)
 
 <h3 align="left">OS</h3>
 
