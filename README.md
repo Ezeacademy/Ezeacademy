@@ -30,7 +30,7 @@
 
 <h3 align="left">DevOps</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes&perline=15)](https://skillicons.dev)
 
 <h3 align="left">DB</h3>
 
